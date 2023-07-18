@@ -12,7 +12,8 @@ Stages / process:
 3. Evaluating performance (accuracy, confusion matrix, & classification report)
 
 The results: 
- Machine Learning Model 1:(* Description of Model 1 Accuracy, Precision, and Recall scores.)
+
+Machine Learning Model 1:(* Description of Model 1 Accuracy, Precision, and Recall scores.)
   - The balanced accuracy score for model 1 is .95. 
   - Logistic regression model predicts 100% with the `0` (healthy loan), a recall of 99%. 
   - It's 85% prediction on `1` (high-risk loan), a recall of 91%. 
